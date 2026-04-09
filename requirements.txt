@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+groq
+duckduckgo-search
+pytz
+pydub
+edge-tts
+dateparser
+requests
+Flask
+gunicorn
